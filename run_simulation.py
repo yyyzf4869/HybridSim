@@ -30,7 +30,7 @@ async def main():
     
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Campus Energy Consumption Simulation System')
-    parser.add_argument('--architecture', type=str, default='hybrid_direct', 
+    parser.add_argument('--architecture', type=str, default='hybrid', 
                        choices=['pure_llm', 'hybrid', 'pure_dl', 'pure_rule', 'hybrid_direct', 'pure_direct_dl'],
                        help='Architecture type: pure_llm (pure LLM), hybrid (hybrid), pure_dl (pure deep learning), pure_rule (pure rule-based), hybrid_direct (hybrid + direct prediction model), pure_direct_dl (pure direct prediction model)')
     parser.add_argument('--dl-model-path', type=str, 

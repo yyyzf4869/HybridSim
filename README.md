@@ -88,7 +88,7 @@ python run_simulation.py \
 
 | Parameter | Description | Default |
 |-----------|-------------|---------|
-| `--architecture` | Simulation architecture type | `hybrid_direct` |
+| `--architecture` | Simulation architecture type | `hybrid` |
 | `--agent-count` | Number of agents (max: 10000) | `100` |
 | `--llm-workers` | LLM parallel workers | `30` |
 | `--dl-workers` | Deep learning parallel workers | `5000` |

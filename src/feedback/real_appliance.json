@@ -1,0 +1,643 @@
+[
+    {
+        "time_slot": "7:00 - 8:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.6375,
+                "classroom": 0.1625,
+                "canteen": 0.1625,
+                "other": 0.025,
+                "library": 0.0125
+            },
+            "Appliance": {
+                "air_conditioner": 0.44594594594594594,
+                "phone_charger": 0.1891891891891892,
+                "laptop": 0.13513513513513514,
+                "light": 0.12162162162162163,
+                "none": 0.10810810810810811
+            }
+        },
+        "graduate": {
+            "Location": {
+                "dormitory": 0.7159763313609467,
+                "laboratory": 0.11834319526627218,
+                "canteen": 0.10650887573964497,
+                "other": 0.023668639053254437,
+                "classroom": 0.023668639053254437,
+                "library": 0.011834319526627219
+            },
+            "Appliance": {
+                "air_conditioner": 0.46408839779005523,
+                "phone_charger": 0.18232044198895028,
+                "laptop": 0.15469613259668508,
+                "none": 0.1270718232044199,
+                "light": 0.06629834254143646,
+                "experimental_equipment": 0.0055248618784530384
+            }
+        }
+    },
+    {
+        "time_slot": "8:00 - 9:00",
+        "undergraduate": {
+            "Location": {
+                "classroom": 0.37755102040816324,
+                "dormitory": 0.32653061224489793,
+                "canteen": 0.1836734693877551,
+                "library": 0.05102040816326531,
+                "laboratory": 0.030612244897959183,
+                "other": 0.030612244897959183
+            },
+            "Appliance": {
+                "air_conditioner": 0.2597402597402597,
+                "laptop": 0.23376623376623376,
+                "none": 0.22077922077922077,
+                "phone_charger": 0.15584415584415584,
+                "light": 0.09090909090909091,
+                "experimental_equipment": 0.03896103896103896
+            }
+        },
+        "graduate": {
+            "Location": {
+                "dormitory": 0.43005181347150256,
+                "laboratory": 0.29015544041450775,
+                "canteen": 0.17098445595854922,
+                "classroom": 0.07253886010362694,
+                "other": 0.03626943005181347
+            },
+            "Appliance": {
+                "air_conditioner": 0.3686868686868687,
+                "laptop": 0.3333333333333333,
+                "phone_charger": 0.15151515151515152,
+                "light": 0.06060606060606061,
+                "none": 0.045454545454545456,
+                "experimental_equipment": 0.04040404040404041
+            }
+        }
+    },
+    {
+        "time_slot": "9:00 - 10:00",
+        "undergraduate": {
+            "Location": {
+                "classroom": 0.5616438356164384,
+                "dormitory": 0.2191780821917808,
+                "library": 0.1095890410958904,
+                "laboratory": 0.0684931506849315,
+                "canteen": 0.0273972602739726,
+                "other": 0.0136986301369863
+            },
+            "Appliance": {
+                "laptop": 0.3194444444444444,
+                "none": 0.25,
+                "air_conditioner": 0.2361111111111111,
+                "phone_charger": 0.125,
+                "light": 0.06944444444444445
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.5780346820809249,
+                "dormitory": 0.20809248554913296,
+                "classroom": 0.09248554913294797,
+                "canteen": 0.06936416184971098,
+                "other": 0.03468208092485549,
+                "library": 0.017341040462427744
+            },
+            "Appliance": {
+                "laptop": 0.4716981132075472,
+                "air_conditioner": 0.22641509433962265,
+                "phone_charger": 0.1509433962264151,
+                "experimental_equipment": 0.07075471698113207,
+                "none": 0.04245283018867924,
+                "light": 0.03773584905660377
+            }
+        }
+    },
+    {
+        "time_slot": "10:00 - 11:00",
+        "undergraduate": {
+            "Location": {
+                "classroom": 0.5866666666666667,
+                "dormitory": 0.17333333333333334,
+                "library": 0.16,
+                "laboratory": 0.05333333333333334,
+                "canteen": 0.02666666666666667
+            },
+            "Appliance": {
+                "laptop": 0.32,
+                "air_conditioner": 0.25333333333333335,
+                "none": 0.2,
+                "phone_charger": 0.14666666666666667,
+                "light": 0.08
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.6912751677852349,
+                "classroom": 0.1610738255033557,
+                "dormitory": 0.09395973154362416,
+                "library": 0.020134228187919462,
+                "canteen": 0.020134228187919462,
+                "other": 0.013422818791946308
+            },
+            "Appliance": {
+                "laptop": 0.5247524752475248,
+                "air_conditioner": 0.19801980198019803,
+                "phone_charger": 0.12376237623762376,
+                "experimental_equipment": 0.08415841584158416,
+                "light": 0.04950495049504951,
+                "none": 0.019801980198019802
+            }
+        }
+    },
+    {
+        "time_slot": "11:00 - 12:00",
+        "undergraduate": {
+            "Location": {
+                "classroom": 0.4567901234567901,
+                "dormitory": 0.20987654320987653,
+                "canteen": 0.18518518518518517,
+                "library": 0.09876543209876543,
+                "laboratory": 0.037037037037037035,
+                "other": 0.012345679012345678
+            },
+            "Appliance": {
+                "air_conditioner": 0.2702702702702703,
+                "none": 0.24324324324324326,
+                "laptop": 0.21621621621621623,
+                "phone_charger": 0.17567567567567569,
+                "light": 0.0945945945945946
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.4858757062146893,
+                "canteen": 0.23728813559322035,
+                "classroom": 0.13559322033898305,
+                "dormitory": 0.096045197740113,
+                "other": 0.02824858757062147,
+                "library": 0.01694915254237288
+            },
+            "Appliance": {
+                "laptop": 0.45,
+                "air_conditioner": 0.215,
+                "phone_charger": 0.17,
+                "none": 0.07,
+                "light": 0.055,
+                "experimental_equipment": 0.04
+            }
+        }
+    },
+    {
+        "time_slot": "12:00 - 13:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.39361702127659576,
+                "canteen": 0.3829787234042553,
+                "classroom": 0.1702127659574468,
+                "library": 0.031914893617021274,
+                "other": 0.010638297872340425,
+                "laboratory": 0.010638297872340425
+            },
+            "Appliance": {
+                "air_conditioner": 0.27380952380952384,
+                "phone_charger": 0.25,
+                "none": 0.19047619047619047,
+                "light": 0.14285714285714285,
+                "laptop": 0.14285714285714285
+            }
+        },
+        "graduate": {
+            "Location": {
+                "canteen": 0.3717277486910995,
+                "dormitory": 0.33507853403141363,
+                "laboratory": 0.193717277486911,
+                "classroom": 0.04712041884816754,
+                "other": 0.04712041884816754,
+                "library": 0.005235602094240838
+            },
+            "Appliance": {
+                "air_conditioner": 0.3315508021390374,
+                "phone_charger": 0.20855614973262032,
+                "laptop": 0.20320855614973263,
+                "none": 0.1657754010695187,
+                "light": 0.06951871657754011,
+                "experimental_equipment": 0.0213903743315508
+            }
+        }
+    },
+    {
+        "time_slot": "13:00 - 14:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.6216216216216216,
+                "classroom": 0.20270270270270271,
+                "canteen": 0.06756756756756757,
+                "library": 0.05405405405405406,
+                "other": 0.04054054054054054,
+                "laboratory": 0.013513513513513514
+            },
+            "Appliance": {
+                "air_conditioner": 0.3188405797101449,
+                "phone_charger": 0.2463768115942029,
+                "none": 0.18840579710144928,
+                "laptop": 0.14492753623188406,
+                "light": 0.08695652173913043,
+                "experimental_equipment": 0.014492753623188406
+            }
+        },
+        "graduate": {
+            "Location": {
+                "dormitory": 0.608433734939759,
+                "laboratory": 0.28313253012048195,
+                "other": 0.04216867469879518,
+                "canteen": 0.03614457831325301,
+                "classroom": 0.018072289156626505,
+                "library": 0.012048192771084338
+            },
+            "Appliance": {
+                "air_conditioner": 0.39893617021276595,
+                "laptop": 0.24468085106382978,
+                "phone_charger": 0.18085106382978725,
+                "none": 0.09574468085106383,
+                "light": 0.05319148936170213,
+                "experimental_equipment": 0.026595744680851064
+            }
+        }
+    },
+    {
+        "time_slot": "14:00 - 15:00",
+        "undergraduate": {
+            "Location": {
+                "classroom": 0.52,
+                "dormitory": 0.22666666666666666,
+                "library": 0.13333333333333333,
+                "laboratory": 0.06666666666666667,
+                "canteen": 0.02666666666666667,
+                "other": 0.02666666666666667
+            },
+            "Appliance": {
+                "air_conditioner": 0.2638888888888889,
+                "none": 0.2638888888888889,
+                "laptop": 0.2361111111111111,
+                "phone_charger": 0.125,
+                "light": 0.08333333333333333,
+                "experimental_equipment": 0.027777777777777776
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.5975609756097561,
+                "dormitory": 0.23170731707317074,
+                "classroom": 0.1402439024390244,
+                "other": 0.018292682926829267,
+                "library": 0.012195121951219513
+            },
+            "Appliance": {
+                "laptop": 0.5073170731707317,
+                "air_conditioner": 0.23902439024390243,
+                "experimental_equipment": 0.08780487804878048,
+                "phone_charger": 0.07804878048780488,
+                "light": 0.05365853658536585,
+                "none": 0.03414634146341464
+            }
+        }
+    },
+    {
+        "time_slot": "15:00 - 16:00",
+        "undergraduate": {
+            "Location": {
+                "classroom": 0.5066666666666667,
+                "dormitory": 0.2,
+                "library": 0.17333333333333334,
+                "laboratory": 0.06666666666666667,
+                "canteen": 0.02666666666666667,
+                "other": 0.02666666666666667
+            },
+            "Appliance": {
+                "laptop": 0.2894736842105263,
+                "air_conditioner": 0.25,
+                "none": 0.17105263157894737,
+                "phone_charger": 0.15789473684210525,
+                "light": 0.09210526315789473,
+                "experimental_equipment": 0.039473684210526314
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.7328767123287672,
+                "classroom": 0.15753424657534246,
+                "dormitory": 0.0821917808219178,
+                "library": 0.0136986301369863,
+                "other": 0.0136986301369863
+            },
+            "Appliance": {
+                "laptop": 0.5436893203883495,
+                "air_conditioner": 0.2087378640776699,
+                "phone_charger": 0.0825242718446602,
+                "experimental_equipment": 0.07766990291262135,
+                "light": 0.06310679611650485,
+                "none": 0.024271844660194174
+            }
+        }
+    },
+    {
+        "time_slot": "16:00 - 17:00",
+        "undergraduate": {
+            "Location": {
+                "classroom": 0.4675324675324675,
+                "dormitory": 0.19480519480519481,
+                "library": 0.16883116883116883,
+                "canteen": 0.09090909090909091,
+                "other": 0.03896103896103896,
+                "laboratory": 0.03896103896103896
+            },
+            "Appliance": {
+                "laptop": 0.2727272727272727,
+                "air_conditioner": 0.24675324675324675,
+                "none": 0.19480519480519481,
+                "phone_charger": 0.18181818181818182,
+                "light": 0.09090909090909091,
+                "experimental_equipment": 0.012987012987012988
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.7019867549668874,
+                "classroom": 0.12582781456953643,
+                "dormitory": 0.0728476821192053,
+                "other": 0.046357615894039736,
+                "canteen": 0.039735099337748346,
+                "library": 0.013245033112582781
+            },
+            "Appliance": {
+                "laptop": 0.5305164319248826,
+                "air_conditioner": 0.19248826291079812,
+                "phone_charger": 0.09389671361502347,
+                "experimental_equipment": 0.08450704225352113,
+                "light": 0.06103286384976526,
+                "none": 0.03755868544600939
+            }
+        }
+    },
+    {
+        "time_slot": "17:00 - 18:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.375,
+                "canteen": 0.32954545454545453,
+                "classroom": 0.1590909090909091,
+                "other": 0.056818181818181816,
+                "library": 0.056818181818181816,
+                "laboratory": 0.022727272727272728
+            },
+            "Appliance": {
+                "air_conditioner": 0.2558139534883721,
+                "phone_charger": 0.23255813953488372,
+                "none": 0.20930232558139536,
+                "laptop": 0.1744186046511628,
+                "light": 0.11627906976744186,
+                "experimental_equipment": 0.011627906976744186
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.4010416666666667,
+                "canteen": 0.3489583333333333,
+                "dormitory": 0.125,
+                "other": 0.09895833333333333,
+                "classroom": 0.026041666666666668
+            },
+            "Appliance": {
+                "laptop": 0.3516483516483517,
+                "air_conditioner": 0.23626373626373626,
+                "none": 0.19230769230769232,
+                "phone_charger": 0.12637362637362637,
+                "light": 0.06043956043956044,
+                "experimental_equipment": 0.03296703296703297
+            }
+        }
+    },
+    {
+        "time_slot": "18:00 - 19:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.4642857142857143,
+                "canteen": 0.17857142857142858,
+                "classroom": 0.11904761904761904,
+                "other": 0.10714285714285714,
+                "library": 0.09523809523809523,
+                "laboratory": 0.03571428571428571
+            },
+            "Appliance": {
+                "air_conditioner": 0.275,
+                "laptop": 0.2375,
+                "none": 0.175,
+                "phone_charger": 0.175,
+                "light": 0.125,
+                "experimental_equipment": 0.0125
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.32620320855614976,
+                "dormitory": 0.2620320855614973,
+                "canteen": 0.22459893048128343,
+                "other": 0.16042780748663102,
+                "classroom": 0.016042780748663103,
+                "library": 0.0106951871657754
+            },
+            "Appliance": {
+                "laptop": 0.3548387096774194,
+                "air_conditioner": 0.23118279569892472,
+                "none": 0.20430107526881722,
+                "phone_charger": 0.12365591397849462,
+                "light": 0.05913978494623656,
+                "experimental_equipment": 0.026881720430107527
+            }
+        }
+    },
+    {
+        "time_slot": "19:00 - 20:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.39759036144578314,
+                "classroom": 0.24096385542168675,
+                "library": 0.1927710843373494,
+                "other": 0.10843373493975904,
+                "laboratory": 0.03614457831325301,
+                "canteen": 0.024096385542168676
+            },
+            "Appliance": {
+                "laptop": 0.28735632183908044,
+                "air_conditioner": 0.26436781609195403,
+                "light": 0.1724137931034483,
+                "none": 0.1724137931034483,
+                "phone_charger": 0.10344827586206896
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.5316455696202531,
+                "dormitory": 0.23417721518987342,
+                "other": 0.12025316455696203,
+                "classroom": 0.056962025316455694,
+                "canteen": 0.03164556962025317,
+                "library": 0.02531645569620253
+            },
+            "Appliance": {
+                "laptop": 0.4597156398104265,
+                "air_conditioner": 0.22748815165876776,
+                "phone_charger": 0.10426540284360189,
+                "light": 0.0995260663507109,
+                "none": 0.061611374407582936,
+                "experimental_equipment": 0.04739336492890995
+            }
+        }
+    },
+    {
+        "time_slot": "20:00 - 21:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.4578313253012048,
+                "classroom": 0.1927710843373494,
+                "library": 0.18072289156626506,
+                "other": 0.1566265060240964,
+                "laboratory": 0.012048192771084338
+            },
+            "Appliance": {
+                "air_conditioner": 0.2840909090909091,
+                "laptop": 0.26136363636363635,
+                "none": 0.17045454545454544,
+                "light": 0.1590909090909091,
+                "phone_charger": 0.11363636363636363,
+                "experimental_equipment": 0.011363636363636364
+            }
+        },
+        "graduate": {
+            "Location": {
+                "laboratory": 0.5121951219512195,
+                "dormitory": 0.3048780487804878,
+                "other": 0.0975609756097561,
+                "classroom": 0.054878048780487805,
+                "library": 0.024390243902439025,
+                "canteen": 0.006097560975609756
+            },
+            "Appliance": {
+                "laptop": 0.4647887323943662,
+                "air_conditioner": 0.2300469483568075,
+                "phone_charger": 0.1267605633802817,
+                "light": 0.07042253521126761,
+                "none": 0.056338028169014086,
+                "experimental_equipment": 0.051643192488262914
+            }
+        }
+    },
+    {
+        "time_slot": "21:00 - 22:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.5324675324675324,
+                "library": 0.15584415584415584,
+                "classroom": 0.15584415584415584,
+                "other": 0.11688311688311688,
+                "laboratory": 0.025974025974025976,
+                "canteen": 0.012987012987012988
+            },
+            "Appliance": {
+                "laptop": 0.2903225806451613,
+                "air_conditioner": 0.26881720430107525,
+                "light": 0.16129032258064516,
+                "none": 0.15053763440860216,
+                "phone_charger": 0.12903225806451613
+            }
+        },
+        "graduate": {
+            "Location": {
+                "dormitory": 0.49411764705882355,
+                "laboratory": 0.3764705882352941,
+                "other": 0.07647058823529412,
+                "classroom": 0.041176470588235294,
+                "library": 0.011764705882352941
+            },
+            "Appliance": {
+                "laptop": 0.37606837606837606,
+                "air_conditioner": 0.2777777777777778,
+                "phone_charger": 0.14957264957264957,
+                "none": 0.09829059829059829,
+                "light": 0.07264957264957266,
+                "experimental_equipment": 0.02564102564102564
+            }
+        }
+    },
+    {
+        "time_slot": "22:00 - 23:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.8125,
+                "library": 0.09375,
+                "other": 0.0625,
+                "classroom": 0.015625,
+                "laboratory": 0.015625
+            },
+            "Appliance": {
+                "air_conditioner": 0.2978723404255319,
+                "laptop": 0.2765957446808511,
+                "phone_charger": 0.18085106382978725,
+                "light": 0.1276595744680851,
+                "none": 0.10638297872340426,
+                "experimental_equipment": 0.010638297872340425
+            }
+        },
+        "graduate": {
+            "Location": {
+                "dormitory": 0.7533333333333333,
+                "laboratory": 0.2,
+                "other": 0.04,
+                "library": 0.006666666666666667
+            },
+            "Appliance": {
+                "air_conditioner": 0.2891566265060241,
+                "laptop": 0.285140562248996,
+                "phone_charger": 0.17269076305220885,
+                "light": 0.13253012048192772,
+                "none": 0.11244979919678715,
+                "experimental_equipment": 0.008032128514056224
+            }
+        }
+    },
+    {
+        "time_slot": "23:00 - 24:00",
+        "undergraduate": {
+            "Location": {
+                "dormitory": 0.8793103448275862,
+                "library": 0.034482758620689655,
+                "classroom": 0.034482758620689655,
+                "other": 0.034482758620689655,
+                "laboratory": 0.017241379310344827
+            },
+            "Appliance": {
+                "air_conditioner": 0.31521739130434784,
+                "laptop": 0.22826086956521738,
+                "phone_charger": 0.17391304347826086,
+                "none": 0.14130434782608695,
+                "light": 0.13043478260869565,
+                "experimental_equipment": 0.010869565217391304
+            }
+        },
+        "graduate": {
+            "Location": {
+                "dormitory": 0.9064748201438849,
+                "laboratory": 0.05755395683453238,
+                "other": 0.03597122302158273
+            },
+            "Appliance": {
+                "air_conditioner": 0.351931330472103,
+                "laptop": 0.1888412017167382,
+                "phone_charger": 0.17167381974248927,
+                "light": 0.15450643776824036,
+                "none": 0.12446351931330472,
+                "experimental_equipment": 0.008583690987124463
+            }
+        }
+    }
+]

@@ -1,0 +1,5802 @@
+[
+    {
+        "timestamp": "Monday 00:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 51
+    },
+    {
+        "timestamp": "Monday 00:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 00:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0226,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 00:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 00:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 46
+    },
+    {
+        "timestamp": "Monday 00:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.8250000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 00:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 48
+    },
+    {
+        "timestamp": "Monday 00:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 00:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.8250000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 00:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 33
+    },
+    {
+        "timestamp": "Monday 00:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 00:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 4.95,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 01:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 46
+    },
+    {
+        "timestamp": "Monday 01:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 01:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 01:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0113,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 01:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 01:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 37
+    },
+    {
+        "timestamp": "Monday 01:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 01:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0068,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 01:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 41
+    },
+    {
+        "timestamp": "Monday 01:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 01:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.2500000000000004,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 01:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 01:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 01:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 02:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 45
+    },
+    {
+        "timestamp": "Monday 02:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 02:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 1.35,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 02:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0113,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 02:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 02:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 38
+    },
+    {
+        "timestamp": "Monday 02:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 02:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0034,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 02:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 41
+    },
+    {
+        "timestamp": "Monday 02:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 02:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.2500000000000004,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 02:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 02:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 02:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 03:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 51
+    },
+    {
+        "timestamp": "Monday 03:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 03:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0113,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 03:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 03:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 38
+    },
+    {
+        "timestamp": "Monday 03:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 03:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0034,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 03:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 42
+    },
+    {
+        "timestamp": "Monday 03:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 03:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.0250000000000004,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 03:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 03:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 03:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 04:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 47
+    },
+    {
+        "timestamp": "Monday 04:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 04:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.9,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 04:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 04:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 04:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 04:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 44
+    },
+    {
+        "timestamp": "Monday 04:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 04:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 1.5750000000000002,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 04:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 04:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 04:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 05:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 47
+    },
+    {
+        "timestamp": "Monday 05:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 05:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.9,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 05:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 05:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 05:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 05:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 44
+    },
+    {
+        "timestamp": "Monday 05:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 05:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 1.5750000000000002,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 05:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 05:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 05:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 06:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 42
+    },
+    {
+        "timestamp": "Monday 06:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 06:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.0250000000000004,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 06:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0113,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 06:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 06:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 35
+    },
+    {
+        "timestamp": "Monday 06:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 06:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0136,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 06:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 40
+    },
+    {
+        "timestamp": "Monday 06:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 06:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 06:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0113,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 06:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 06:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 39
+    },
+    {
+        "timestamp": "Monday 06:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4750000000000005,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 07:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 39
+    },
+    {
+        "timestamp": "Monday 07:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 38
+    },
+    {
+        "timestamp": "Monday 07:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.24749999999999994,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 07:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.4375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 07:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.05,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 07:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.11249999999999999,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 7.5625,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.13499999999999998,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "light",
+        "energy": 0.047599999999999996,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.3075,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 07:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.5,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "light",
+        "energy": 0.06799999999999999,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.09,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.35000000000000003,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 07:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.5,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.051,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "graduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 0.8345324981675452,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 07:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.051,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "light",
+        "energy": 0.05920000000000002,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0136,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.22749999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 08:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 2.0625,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.23249999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 08:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 2.75,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.0136,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.16999999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "light",
+        "energy": 0.05890000000000002,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.010199999999999999,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.8125,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0034,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 08:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.055,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.056499999999999995,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0226,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 08:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 6.1875,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.47500000000000014,
+        "count": 19
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "air_conditioner",
+        "energy": 0.25,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0272,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.325,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.125,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 09:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.08,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.033999999999999996,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4500000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.056499999999999995,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0034,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0226,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.175,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.025,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 09:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.75,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.051,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4275000000000001,
+        "count": 19
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "air_conditioner",
+        "energy": 0.225,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0068,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.05,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.75,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0113,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 09:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.033999999999999996,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.056499999999999995,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.325,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 6.1875,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 09:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0113,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 16.375,
+        "count": 24
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.051,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.4500000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.22499999999999995,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "air_conditioner",
+        "energy": 2.0,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 10:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.033999999999999996,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.4500000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.22499999999999995,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.056499999999999995,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 10:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "air_conditioner",
+        "energy": 0.5,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.051,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.22499999999999995,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.4425000000000001,
+        "count": 19
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 10:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 0.625,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.033999999999999996,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.056499999999999995,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.8125,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 10:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.07750000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 3.0249999999999995,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 0.6875,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 11:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.055,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "graduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 2.052219901137127,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 2.1999999999999997,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.4375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 11:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.0275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "graduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 2.036049119966634,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 3.0249999999999995,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 0.6875,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 11:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.055,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "graduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 1.794053006377657,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 2.7499999999999996,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 11:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 2.75,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 14.4375,
+        "count": 21
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 4.020704242204938,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 12:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.0275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 13.75,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 3.9295180637259,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.022200000000000004,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.055,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.05,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 12:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.27499999999999997,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "graduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 2.1938333774080245,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.28,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "undergraduate",
+        "location": "other",
+        "appliance": "phone_charger",
+        "energy": 0.14690000000000003,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.8250000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 1.5332585130513712,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 12:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.051,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "phone_charger",
+        "energy": 4.357595823980993,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "graduate",
+        "location": "canteen",
+        "appliance": "phone_charger",
+        "energy": 2.0111270957542375,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.044199999999999996,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 12:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.5,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.27499999999999997,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.125,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "phone_charger",
+        "energy": 0.0452,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.125,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 13:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 16.375,
+        "count": 24
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.175,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.16249999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.0272,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 2.75,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0125,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.20249999999999999,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 13:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.24999999999999997,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.9249999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 13:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.8125,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4500000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.056499999999999995,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 13:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.051,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.325,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 14:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2075,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0452,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 14:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 1.375,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.24999999999999997,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.8250000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.8125,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 14:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 17
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 3.0753852050109036,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.17999999999999997,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.315,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 10.125,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.315,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.9,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.045,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 14:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 1.125,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.010199999999999999,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.24999999999999997,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.044199999999999996,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.8125,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 15:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.055,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.24999999999999997,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0136,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2125,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 15:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 1.375,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.24999999999999997,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.010199999999999999,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.037399999999999996,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 5.5,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 15:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.0275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.040799999999999996,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.0136,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.9249999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.4375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 15:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.055,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.8250000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.4375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 16:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1525,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.037399999999999996,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0452,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.4375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 16:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1075,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.8125,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0226,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 16:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.055,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.5000000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 2.1999999999999997,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 16:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.125,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4250000000000001,
+        "count": 17
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.28,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.3425,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 17:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 2.75,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.47500000000000014,
+        "count": 19
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0452,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 17:15",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 1.375,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4250000000000001,
+        "count": 17
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.13,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 17:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 4.8125,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "light",
+        "energy": 0.020399999999999998,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 12.375,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.10170000000000001,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 2.1999999999999997,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1275,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 17:45",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 3.4375,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 7.5625,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.38750000000000007,
+        "count": 17
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4250000000000001,
+        "count": 17
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "laptop",
+        "energy": 0.175,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.0037,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.36750000000000005,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 18:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.36250000000000004,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.4500000000000001,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.325,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.0037,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "laptop",
+        "energy": 0.05,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.3425,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 18:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 1.9249999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 13.75,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.27499999999999997,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.3600000000000001,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.8250000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 1.375,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 18:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.0037,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.38750000000000007,
+        "count": 17
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.35000000000000003,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.37500000000000006,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "light",
+        "energy": 0.0074,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.2925,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 18:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.0074,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 7.5625,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.325,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.025900000000000006,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 2.138516528199298,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.27499999999999997,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 19:00",
+        "student_type": "undergraduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.0275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 15.125,
+        "count": 22
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.35000000000000003,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.022200000000000004,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "none",
+        "energy": 2.460255306402567,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.36750000000000005,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 19:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.5749999999999993,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 13.75,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "undergraduate",
+        "location": "classroom",
+        "appliance": "light",
+        "energy": 0.07400000000000001,
+        "count": 20
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "light",
+        "energy": 0.023799999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.37000000000000005,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 2.4749999999999996,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 19:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 17
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.125,
+        "count": 5
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05890000000000002,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "undergraduate",
+        "location": "canteen",
+        "appliance": "phone_charger",
+        "energy": 0.8302802347529503,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.4000000000000001,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 19:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 1.9249999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 7.5625,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.175,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.04810000000000002,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "graduate",
+        "location": "classroom",
+        "appliance": "laptop",
+        "energy": 0.175,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 10
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.22499999999999998,
+        "count": 9
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 20:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05920000000000002,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.325,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 7.5625,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.175,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.04810000000000002,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 19
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0339,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.5749999999999993,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05920000000000002,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.3,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.325,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 20:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 10.3125,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05180000000000002,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 23
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 21:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 13.0625,
+        "count": 19
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05920000000000002,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 28
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 21:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 29
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.15,
+        "count": 6
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05180000000000002,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 8.9375,
+        "count": 13
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.0226,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 21:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 31
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 29
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05920000000000002,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 11.0,
+        "count": 16
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.025,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 21:45",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.05,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 22:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 33
+    },
+    {
+        "timestamp": "Monday 22:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 19
+    },
+    {
+        "timestamp": "Monday 22:00",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.4500000000000001,
+        "count": 18
+    },
+    {
+        "timestamp": "Monday 22:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 7.5625,
+        "count": 11
+    },
+    {
+        "timestamp": "Monday 22:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.2999999999999994,
+        "count": 12
+    },
+    {
+        "timestamp": "Monday 22:00",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 1.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 22:00",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.07500000000000001,
+        "count": 3
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 41
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.1,
+        "count": 4
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "undergraduate",
+        "location": "library",
+        "appliance": "light",
+        "energy": 0.05550000000000002,
+        "count": 15
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 5.5,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.09040000000000001,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "laptop",
+        "energy": 0.025,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 22:15",
+        "student_type": "graduate",
+        "location": "library",
+        "appliance": "laptop",
+        "energy": 0.025,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 22:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 49
+    },
+    {
+        "timestamp": "Monday 22:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 27
+    },
+    {
+        "timestamp": "Monday 22:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "phone_charger",
+        "energy": 0.09040000000000001,
+        "count": 8
+    },
+    {
+        "timestamp": "Monday 22:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "experimental_equipment",
+        "energy": 0.6875,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 22:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 22:30",
+        "student_type": "graduate",
+        "location": "laboratory",
+        "appliance": "air_conditioner",
+        "energy": 0.275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 22:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 51
+    },
+    {
+        "timestamp": "Monday 22:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 35
+    },
+    {
+        "timestamp": "Monday 22:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 3.849999999999999,
+        "count": 14
+    },
+    {
+        "timestamp": "Monday 23:00",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 51
+    },
+    {
+        "timestamp": "Monday 23:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 47
+    },
+    {
+        "timestamp": "Monday 23:00",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    },
+    {
+        "timestamp": "Monday 23:15",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 51
+    },
+    {
+        "timestamp": "Monday 23:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 42
+    },
+    {
+        "timestamp": "Monday 23:15",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 1.9249999999999998,
+        "count": 7
+    },
+    {
+        "timestamp": "Monday 23:30",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 51
+    },
+    {
+        "timestamp": "Monday 23:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 48
+    },
+    {
+        "timestamp": "Monday 23:30",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.275,
+        "count": 1
+    },
+    {
+        "timestamp": "Monday 23:45",
+        "student_type": "graduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 51
+    },
+    {
+        "timestamp": "Monday 23:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "none",
+        "energy": 0.0,
+        "count": 47
+    },
+    {
+        "timestamp": "Monday 23:45",
+        "student_type": "undergraduate",
+        "location": "dormitory",
+        "appliance": "air_conditioner",
+        "energy": 0.55,
+        "count": 2
+    }
+]

@@ -1,0 +1,65 @@
+# Core dependencies
+torch==2.8.0
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+
+# LLM and AI frameworks
+vllm==0.11.0
+transformers==4.57.1
+openai==2.7.1
+sentencepiece==0.2.1
+tiktoken==0.12.0
+
+# Data handling and processing
+json5>=0.9.0
+pyarrow==21.0.0
+datasets==4.4.0
+openpyxl==3.1.5
+
+# Async and concurrency
+aiohttp==3.13.2
+asyncio
+collections
+concurrent.futures
+
+# Logging and monitoring
+loguru==0.6.0
+python-json-logger==4.0.0
+
+# Web framework and API
+fastapi==0.121.0
+uvicorn==0.38.0
+httpx==0.28.1
+
+# Date and time handling
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+pyvis==0.3.2
+
+# File system operations
+os
+shutil
+
+# Type hints and utilities
+typing
+typing-extensions==4.15.0
+pydantic==2.12.3
+
+# Random number generation
+random
+
+# Threading
+threading
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.991
